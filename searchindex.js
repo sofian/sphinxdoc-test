@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["includeme","index"],envversion:52,filenames:["includeme.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:1,hei:0,index:1,modul:1,page:1,readm:1,search:1},titles:["README","Welcome to Test Tats\u2019s documentation!"],titleterms:{document:1,indic:1,readm:0,tabl:1,tat:1,test:1,welcom:1}})
